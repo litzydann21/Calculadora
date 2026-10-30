@@ -19,3 +19,4 @@ def operaciones(v1,v2, operacion):
     else:
         print("operacion no valida")
 operaciones(v1,v2,operacion)
+ 
